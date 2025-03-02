@@ -1,7 +1,7 @@
 # ServiceNow-Incident-Management-Implementation
 
 <p align="center">
-<img src="https://imgur.com/2NXNxhv.png" alt="ServiceNow logo"/>
+<img src="https://imgur.com/PNlgOCD.png" alt="ServiceNow logo"/>
 </p>
 
 <h1>Implementing ServiceNow Ticketing System for Incident-Management</h1>
