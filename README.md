@@ -1,5 +1,3 @@
-# ServiceNow-Incident-Management-Implementation
-
 <p align="center">
 <img src="https://imgur.com/PNlgOCD.png" alt="ServiceNow logo"/>
 </p>
