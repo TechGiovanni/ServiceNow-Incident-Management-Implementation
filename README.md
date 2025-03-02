@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/vY7dY1V.png" alt="ServiceNow logo"/>
+<img src="https://imgur.com/1FxcYnO.png" alt="ServiceNow logo"/>
 </p>
 
 <h1>Implementing ServiceNow Ticketing System for Incident-Management</h1>
